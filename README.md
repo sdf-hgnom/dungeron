@@ -4,7 +4,9 @@
 Для запуска:  
 
 
-python dungeon.py  
+python dungeon.py    
+
+
 
 Библиотека : termcolor,decimal  
 
